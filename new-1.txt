@@ -1,1 +1,3 @@
-เพิ่มไฟล์ new-1.txt ใน directory git102
+แก้ไขข้อความในไฟล์ new-1.txt
+เพิ่มไฟล์ new-1.txt ใน directory git102 แก้ไขบรรทัดนี้ด้วย
+แก้ไขตอนที่อยู่ใน main ใน directory git102
